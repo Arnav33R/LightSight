@@ -1,4 +1,4 @@
-<h2> Hi, we are LightSense!</h2>
+<h2> Hi, we are LightSight!</h2>
 <p>
   <a href="https://linkedin.com/in/arnav-rastogi">Arnav Rastogi </a>Computer Science Major at UC Davis</br>
   <a href="https://www.linkedin.com/in/kevin-kapoor-90572821a/">Kevin Kapoor </a>Aerospace Science and Engineering Major at UC Davis

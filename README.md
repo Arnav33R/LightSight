@@ -5,8 +5,7 @@
   <a href="https://www.linkedin.com/in/kevin-kapoor-90572821a/">Kevin Kapoor </a>Aerospace Science and Engineering Major at UC Davis
 </p>
 
-[![GitHub: Project](https://github.com/Arnav33R/LightSight/)
-[![DevPost](https://devpost.com/software/visionverse?ref_content=user-portfolio&ref_feature=in_progress)
+[DevPost](https://devpost.com/software/visionverse?ref_content=user-portfolio&ref_feature=in_progress)
 
 ---
 

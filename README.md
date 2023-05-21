@@ -5,6 +5,7 @@
 </p>
 
 ![Logo](https://github.com/Arnav33R/LightSight/blob/main/lightsight.png?raw=true)
+
 [DevPost](https://devpost.com/software/visionverse?ref_content=user-portfolio&ref_feature=in_progress)
 
 

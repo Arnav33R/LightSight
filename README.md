@@ -1,6 +1,8 @@
 <h2> Hi, we are LightSense! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em><a href="http://www.unb.br">Arnav Rastogi </a>Computer Science Major at UC Davis</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>
+  <a href="https://linkedin.com/in/arnav-rastogi">Arnav Rastogi </a>Computer Science Major at UC Davis</br>
+  <a href="[https://www.thoughtworks.com](https://www.linkedin.com/in/kevin-kapoor-90572821a/)">Kevin Kapoor</a>Aerospace Science and Engineering Major at UC Davis
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)

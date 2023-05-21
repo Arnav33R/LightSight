@@ -9,7 +9,7 @@ import subprocess
 import RPi.GPIO as GPIO
 
 # initializing button pin 
-but_pin = 15  
+but_pin = 37 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(but_pin, GPIO.IN)
 

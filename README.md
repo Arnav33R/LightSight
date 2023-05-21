@@ -1,4 +1,4 @@
-<h2> Hi, we are LightSense! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, we are LightSense!</h2>
 ![Logo](https://github.com/Arnav33R/LightSight/blob/main/lightsight.png?raw=true)
 <p>
   <a href="https://linkedin.com/in/arnav-rastogi">Arnav Rastogi </a>Computer Science Major at UC Davis</br>

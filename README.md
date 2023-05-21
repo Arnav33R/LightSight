@@ -1,5 +1,4 @@
 <h2> Hi, we are LightSense!</h2>
-[Logo](https://github.com/Arnav33R/LightSight/blob/main/lightsight.png?raw=true)
 <p>
   <a href="https://linkedin.com/in/arnav-rastogi">Arnav Rastogi </a>Computer Science Major at UC Davis</br>
   <a href="https://www.linkedin.com/in/kevin-kapoor-90572821a/">Kevin Kapoor </a>Aerospace Science and Engineering Major at UC Davis
@@ -8,6 +7,7 @@
 [DevPost](https://devpost.com/software/visionverse?ref_content=user-portfolio&ref_feature=in_progress)
 
 ---
+![Logo](https://github.com/Arnav33R/LightSight/blob/main/lightsight.png?raw=true)
 
 
 # LightSense

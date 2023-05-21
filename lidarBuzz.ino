@@ -10,7 +10,7 @@ int16_t tfAddr = TFL_DEF_ADR;    // default I2C address
 // setting up the serial port, library, and vibration motor
 void setup() {
   pinMode(8, OUTPUT);
-  Serial.begin(9600);           // Initialize serial port
+  Serial.begin(115200);           // Initialize serial port
   Wire.begin();                   // Initialize Wire library
 }
 
@@ -20,9 +20,16 @@ void loop() {
     Serial.print(tfDist);         // Print the distance value
     Serial.println(" cm");
     if (tfDist <= 150) {
-      int delayTime = map(tfDist, 0, 150, 10, 1000);  // Map distance to delay time (adjust the range as needed)
+      if (tfDist <= 70){
+        digitalWrite(8, HIGH);
+      }
+      else {
+      int delayTime = map(tfDist, 70, 150, 300, 1100);  // Map distance to delay time (adjust the range as needed)
       digitalWrite(8, HIGH);
-      delay(50);
+      delay(delayTime);
+      digitalWrite(8, LOW);
+      delay(delayTime);
+      }
     }
     else {
       digitalWrite(8, LOW);
